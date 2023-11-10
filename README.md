@@ -4,20 +4,19 @@
 
 This project focuses on automating the testing of a RESTful API using the RestAssured framework in Java. It employs the TestNG testing framework for Java. The primary objective is to ensure the robustness and reliability of the REST API by automating various test scenarios.
 
-#### Demo
+### Demo
 
 1. **Postman Test**
-   
+ 
    ![Postman Test](https://github.com/ozgurgogersin/Rest_Assured_API_Testing/blob/master/src/test/java/_Gifs/postman.gif)
 
 2. **Newman Test & HTMLExtra Report**
-   
+ 
    ![Newman Test](https://github.com/ozgurgogersin/Rest_Assured_API_Testing/blob/master/src/test/java/_Gifs/newman.gif)
 
 3. **RestAssured Test**
-   
+ 
    ![RestAssured](https://github.com/ozgurgogersin/Rest_Assured_API_Testing/blob/master/src/test/java/_Gifs/restAssured.gif)
-
 
 ## Testing Framework and Tools
 
@@ -50,12 +49,11 @@ Before automation, the project underwent thorough manual testing using Postman t
    - These reports were manually reviewed and analyzed for identifying any issues or unexpected behavior.
 
 3. **Newman HTML Extra Report:**
-
    - Include a brief description of how to generate and access the Newman HTML Extra report. For example:
-
    - To generate the Newman HTML Extra report, run the following command in the terminal:
-
-   - newman run { your_collection } -r htmlextra
+     ```
+     newman run { your_collection } -r htmlextra
+     ```
 
 ## Automated Testing Approaches
 
@@ -63,26 +61,23 @@ The automated testing includes various scenarios to validate the functionality a
 
 ### - Data-Driven Testing
 
-   - The project embraces data-driven testing to enhance the efficiency and coverage of test scenarios. 
-   - An illustrative example is the `paginationPageNumberConsistencyWithDataProviderTest` method, which utilizes TestNG's `@DataProvider` annotation.
+- The project embraces data-driven testing to enhance the efficiency and coverage of test scenarios. 
+- An illustrative example is the `paginationPageNumberConsistencyWithDataProviderTest` method, which utilizes TestNG's `@DataProvider` annotation.
 
 ### - POJO (Plain Old Java Object) Usage
 
-  - The project leverages POJOs to model API responses and requests, enhancing code readability and maintainability.
+- The project leverages POJOs to model API responses and requests, enhancing code readability and maintainability.
 
 ### - CRUD Operations
 
-  - Create:
-    Demonstrates creating a new user using maps and POJOs.
+- **Create:**
+  - Demonstrates creating a new user using maps and POJOs.
 
-  - Read:
-    Tests retrieving all users and pagination consistency.
+- **Read:**
+  - Tests retrieving all users and pagination consistency.
 
-  - Update:
-    Updates a user's information using POJOs.
+- **Update:**
+  - Updates a user's information using POJOs.
 
-  - Delete:
-    Deletes a user and tests negative scenarios.
-
-
-
+- **Delete:**
+  - Deletes a user and tests negative scenarios.
