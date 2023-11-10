@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="761cb151-94d6-4e0d-a0bf-140f43ffb3eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GoRestUsers/RandomStringGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GoRestUsers/UsersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NewmanHtmlReport/Go Rest Users API Test-2023-11-10-19-40-11-405-0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/POJO/Users.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XxP5KxRAh65ZfbxjDGt7C0G73E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ozgur\Desktop\GithubRepositories\Rest_Assured_API_Testing\src\test\java\NewmanHtmlReport" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UsersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest_Assured_API_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoRestUsers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GoRestUsers" />
+      <option name="MAIN_CLASS_NAME" value="GoRestUsers.UsersTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.getAllUsersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest_Assured_API_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoRestUsers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GoRestUsers" />
+      <option name="MAIN_CLASS_NAME" value="GoRestUsers.UsersTest" />
+      <option name="METHOD_NAME" value="getAllUsersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.getUserById" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest_Assured_API_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoRestUsers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GoRestUsers" />
+      <option name="MAIN_CLASS_NAME" value="GoRestUsers.UsersTest" />
+      <option name="METHOD_NAME" value="getUserById" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.paginationPageNumberConsistencyWithDataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest_Assured_API_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoRestUsers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GoRestUsers" />
+      <option name="MAIN_CLASS_NAME" value="GoRestUsers.UsersTest" />
+      <option name="METHOD_NAME" value="paginationPageNumberConsistencyWithDataProviderTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersTest.updateUserWithPojo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest_Assured_API_Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoRestUsers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="GoRestUsers" />
+      <option name="MAIN_CLASS_NAME" value="GoRestUsers.UsersTest" />
+      <option name="METHOD_NAME" value="updateUserWithPojo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UsersTest" />
+        <item itemvalue="TestNG.UsersTest.paginationPageNumberConsistencyWithDataProviderTest" />
+        <item itemvalue="TestNG.UsersTest.getAllUsersTest" />
+        <item itemvalue="TestNG.UsersTest.getUserById" />
+        <item itemvalue="TestNG.UsersTest.updateUserWithPojo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761cb151-94d6-4e0d-a0bf-140f43ffb3eb" name="Changes" comment="" />
+      <created>1699567576435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699567576435</updated>
+    </task>
+    <servers />
+  </component>
+</project>
