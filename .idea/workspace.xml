@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761cb151-94d6-4e0d-a0bf-140f43ffb3eb" name="Changes" comment="First Commit!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="761cb151-94d6-4e0d-a0bf-140f43ffb3eb" name="Changes" comment="Gifs added for github readme.">
+      <change beforePath="$PROJECT_DIR$/src/test/java/NewmanHtmlReport/Go Rest Users API Test-2023-11-10-19-40-11-405-0.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewmanHtmlReport/Go Rest Users API Test-2023-11-10-19-40-11-405-0.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ozgur\Desktop\GithubRepositories\Rest_Assured_API_Testing\src\test\java\_Gifs" />
       <recent name="C:\Users\ozgur\Desktop\GithubRepositories\Rest_Assured_API_Testing\src\test\java\NewmanHtmlReport" />
     </key>
   </component>
@@ -157,11 +158,20 @@
       <option name="project" value="LOCAL" />
       <updated>1699645858613</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Gifs added for github readme.">
+      <option name="closed" value="true" />
+      <created>1699646654559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699646654559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit!" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit!" />
+    <MESSAGE value="Gifs added for github readme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Gifs added for github readme." />
   </component>
 </project>
