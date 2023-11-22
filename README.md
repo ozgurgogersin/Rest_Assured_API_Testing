@@ -6,15 +6,15 @@ This project focuses on automating the testing of a RESTful API using the RestAs
 
 ### Demo
 
-1. **Postman Test**
+1. **Testing with Postman**
  
    ![Postman Test](https://github.com/ozgurgogersin/Rest_Assured_API_Testing/blob/master/src/test/java/_Gifs/postman.gif)
 
-2. **Newman Test & HTMLExtra Report**
+2. **Testing with Newman & HTMLExtra Report**
  
    ![Newman Test](https://github.com/ozgurgogersin/Rest_Assured_API_Testing/blob/master/src/test/java/_Gifs/newman.gif)
 
-3. **RestAssured Test**
+3. **Testing with RestAssured**
  
    ![RestAssured](https://github.com/ozgurgogersin/Rest_Assured_API_Testing/blob/master/src/test/java/_Gifs/restAssured.gif)
 
